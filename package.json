@@ -1,0 +1,13 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass styles/styles.scss styles/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
